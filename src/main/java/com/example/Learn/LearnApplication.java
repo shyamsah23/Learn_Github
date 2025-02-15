@@ -10,6 +10,7 @@ public class LearnApplication {
 		SpringApplication.run(LearnApplication.class, args);
 		System.out.println("Message from first Branch");
 		System.out.println("Message from seond Branch");
+		System.out.println("Message from third Branch");
 	}
 
 }
